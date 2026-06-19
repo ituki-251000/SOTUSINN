@@ -192,6 +192,7 @@
     <ClCompile Include="Source\WinMain.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Data\Mesh\新しいフォルダー\ヘッダー.h" />
     <ClInclude Include="Source\CBoundingSphere.h" />
     <ClInclude Include="Source\CCamera.h" />
     <ClInclude Include="Source\CCharacter.h" />

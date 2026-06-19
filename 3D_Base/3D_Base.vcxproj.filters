@@ -368,6 +368,7 @@
     <ClInclude Include="Source\CSceneChange.h">
       <Filter>Source\CSceneChange\シーンチェンジ制御</Filter>
     </ClInclude>
+    <ClInclude Include="Data\Mesh\新しいフォルダー\ヘッダー.h" />
   </ItemGroup>
   <ItemGroup>
     <FxCompile Include="Data\Shader\Sprite3D.hlsl">
